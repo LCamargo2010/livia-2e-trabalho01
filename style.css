@@ -1,0 +1,7 @@
+body{
+    background:linear-gradient(darkgray,white);
+    text-align: center;
+}
+    img{
+        border: double 8px;
+    }
